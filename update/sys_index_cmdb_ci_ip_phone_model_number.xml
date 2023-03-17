@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_index">
+    <sys_index action="INSERT_OR_UPDATE">
+        <col_name_string>model_number</col_name_string>
+        <index_col_name element="model_number" name="cmdb_ci_ip_phone">995707fc44211110a86688ad36699448</index_col_name>
+        <logical_table_name>cmdb_ci_ip_phone</logical_table_name>
+        <sys_class_name>sys_index</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-03-16 00:36:19</sys_created_on>
+        <sys_id>af3ef02e1b612d10a96b2f08b04bcb50</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>cmdb_ci_ip_phone</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_index_cmdb_ci_ip_phone_model_number</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-03-16 00:36:19</sys_updated_on>
+        <table display_value="IP Phone" name="cmdb_ci_ip_phone">955707fc44211110a86688ad36699419</table>
+        <unique_index>false</unique_index>
+    </sys_index>
+</record_update>
